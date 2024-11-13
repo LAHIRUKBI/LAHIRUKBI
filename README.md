@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Lahiru!
+### Hi there 👋, I'm Lahiru illangasinghe!
 ####🌍 Sri Lanka | 💻 Web Developer | 📱 Mobile Developer | 🎨 Frontend Developer | 🔧 Backend Developer | 💡 Creative Problem Solver
 
 
