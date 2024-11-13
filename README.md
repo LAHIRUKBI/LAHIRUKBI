@@ -4,7 +4,7 @@
 
 I’m a passionate developer with a love for UI/UX design and creating user-friendly, visually captivating digital experiences. I enjoy working with frameworks like React and React Native for web and mobile, and I’m also delving into Android development. With skills in both frontend and backend development, my goal is to blend creativity with functionality in everything I build. ✨
 
-**Skills: React | JavaScript (JS) | Java | HTML | CSS | PHP | Node.js | MongoDB | C | C++ | Express.js | TypeScript | Redux | Firebase | SQL | Git | GitHub | REST APIs | MySQL | Tailwind CSS | Bootstrap**
+**Skills: ⚛️ React | 📜 JavaScript (JS) | ☕ Java | 🌐 HTML | 🎨 CSS | 🐘 PHP | 🌳 Node.js | 🍃 MongoDB | 🔠 C | ➕ C++ | 🛤️ Express.js | 📘 TypeScript | 🔄 Redux | 🔥 Firebase | 🗃️ SQL | 🌱 Git | 🐱 GitHub | 🔗 REST APIs | 🗄️ MySQL | 💠 Tailwind CSS | 📐 Bootstrap**
 
 - 👩🏽‍💻 I’m currently learning MERN and Java 
 - 🎓 I’m currently a student at SLIIT
